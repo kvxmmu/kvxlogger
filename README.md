@@ -18,4 +18,11 @@ int main() {
     return 0;
 }
 
+/*
+ * Output:
+ *  [Test]:Information> Info test
+ *  [Test]:Warning> Warning test
+ *  [Test]:Error> Error test
+ */
+
 ```
