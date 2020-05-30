@@ -1,3 +1,9 @@
+# local data
+cmake-build-debug/
+.idea/
+build/
+main.cpp
+
 # Prerequisites
 *.d
 
